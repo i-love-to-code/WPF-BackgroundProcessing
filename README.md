@@ -1,0 +1,1 @@
+Two examples of performing long running operations whilst maintaining a responsive UI in WPF. One approach uses a BackgroundWorker object whilst the second uses the newer async/await keywords.
